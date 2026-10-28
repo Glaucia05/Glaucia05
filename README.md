@@ -1,11 +1,20 @@
-<h1 align="center">Glaucia</h1>
+<h1 align="left">Glaucia 👩‍💻</h1>
 
-<p align="center">
-  <b>Desenvolvedora & Analista</b><br>
-  Python · Java · C · TypeScript · Angular<br>
-  Desenvolvimento de Software · Redes · Banco de Dados · Sistemas Embarcados<br>
+<h3 align="left">Desenvolvedora & Analista</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+<p align="left">
+  <b>Desenvolvimento de Software · Redes · Banco de Dados · Sistemas Embarcados</b><br>
   📍 Curitiba, Paraná, Brasil 🇧🇷
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/glaucia-bispo-590aa7330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
